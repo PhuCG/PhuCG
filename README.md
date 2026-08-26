@@ -83,32 +83,28 @@ Mobile engineer focused on **Flutter/Dart** products that ship to real users —
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PhuCG&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  <img src="https://github-readme-stats.vercel.app/api?username=PhuCG&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=0969da&text_color=1f2328" height="170" alt="GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PhuCG&hide_border=true&background=00000000&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-  <img src="https://streak-stats.demolab.com?user=PhuCG&hide_border=true&background=00000000&stroke=d0d7de&ring=0969da&fire=0969da&currStreakLabel=0969da&sideLabels=1f2328&currStreakNum=1f2328&sideNums=1f2328&dates=6e7781" height="170" alt="Contribution streak" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PhuCG&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhuCG&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0969da&text_color=1f2328" height="150" alt="Top languages" />
-</picture>
-
-<img src="https://github-profile-trophy.vercel.app/?username=PhuCG&column=7&margin-w=6&margin-h=6&no-frame=true&theme=flat" alt="Trophies" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PhuCG&bg_color=00000000&color=c9d1d9&line=58a6ff&point=58a6ff&area_color=58a6ff&area=true&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhuCG&bg_color=00000000&color=1f2328&line=0969da&point=0969da&area_color=0969da&area=true&hide_border=true" alt="Contribution activity graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhuCG/PhuCG/main/profile-3d-contrib/profile-night-view.svg" />
+  <img src="https://raw.githubusercontent.com/PhuCG/PhuCG/main/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution calendar" width="900" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhuCG/PhuCG/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/PhuCG/PhuCG/output/github-snake.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/PhuCG/PhuCG/output/github-snake.svg" alt="Contribution snake" width="900" />
 </picture>
 
 </div>
+
+<!--
+  Stats / streak / top-languages cards:
+  the public github-readme-stats.vercel.app, streak-stats.demolab.com and
+  github-profile-trophy.vercel.app deployments are currently PAUSED by their owners,
+  so their images render as broken links. Deploy your own instance
+  (fork github-readme-stats -> deploy on Vercel -> add a PAT as PAT_1)
+  and paste the URLs below - self-hosting also makes private-repo commits count.
+
+  <img src="https://YOUR-INSTANCE.vercel.app/api?username=PhuCG&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" height="170" />
+  <img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=PhuCG&layout=compact&langs_count=8&hide_border=true" height="150" />
+-->
 
 ---
 
